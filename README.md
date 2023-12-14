@@ -4,6 +4,8 @@ A lightly-curated list of [Wayland](https://gitlab.freedesktop.org/wayland/wayla
 
 If you want to contribute, please read [this](CONTRIBUTING.md).
 
+OC is natpen, but it was archived, so I forked it to maintain it and keep it up to date
+
 ## Table of contents
 
   - [Break Notifiers](#break-notifiers)
@@ -135,7 +137,8 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [oculante](https://github.com/woelper/oculante) — A fast, unobstrusive portable image viewer
 * [Pix](https://invent.kde.org/maui/pix) - Maui's image viewer for desktop and mobile
 * [Swayimg](https://github.com/artemsen/swayimg) -  Image viewer for Sway/Wayland
-* [vimiv](https://karlch.github.io/vimiv/) - An image viewer with vim-like keybindings
+* [vimiv](https://karlch.github.io/vimiv/) - An image viewer with vim-like keybindings (unmaintained)
+* [vimiv-qt](https://github.com/karlch/vimiv-qt) - vimiv rewritten with QT, is maintained
 
 ## Key Binding Management
 
@@ -233,6 +236,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [Watershot](https://github.com/Kirottu/watershot) - A simple wayland native screenshot tool inspired by Flameshot
 * [Wayshot](https://git.sr.ht/~shinyzenith/wayshot) - A screenshot tool for wlroots compositors implementing zwlr_screencopy_v1.
 * [Weye](https://github.com/Yakkhini/Weye) - A lightweight screenshot tool for sway users, written in Rust. This tool uses grimshot commands to screenshot
+* [satty](https://github.com/gabm/satty) - A screenshot annotation tool inspired by swappy and flameshot
 
 ## Session Management
 
@@ -297,6 +301,7 @@ No Wayland-specific requirements, so you can use your xorg solution of choice to
 * [waypaper](https://github.com/anufrievroman/waypaper) - GUI frontend for swaybg/swww to switch wallpapers
 * [wpaperd](https://github.com/danyspin97/wpaperd) - Wallpaper daemon that shows random wallpapers from a directory and changes them after some time
 * [wbg](https://codeberg.org/dnkl/wbg) - Super simple wallpaper application for Wayland compositors
+* [waypaper-engine](https://github.com/0bCdian/Waypaper-Engine) - A graphical frontend for setting wallpapers and playlists, using swww under the hood!
 
 ## License
 
